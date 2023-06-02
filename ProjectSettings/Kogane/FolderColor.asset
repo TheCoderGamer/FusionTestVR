@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a81929eadcaab94bbec300f8e63ba91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_folderName: Animations
+    m_color: {r: 0.43137255, g: 0.90588236, b: 0.7176471, a: 1}
+  - m_folderName: Audio
+    m_color: {r: 0.36862746, g: 0.91764706, b: 0.83137256, a: 1}
+  - m_folderName: Editor
+    m_color: {r: 0.40392157, g: 0.9098039, b: 0.9764706, a: 1}
+  - m_folderName: Effects
+    m_color: {r: 0.49019608, g: 0.827451, b: 0.9882353, a: 1}
+  - m_folderName: Fonts
+    m_color: {r: 0.5764706, g: 0.77254903, b: 0.99215686, a: 1}
+  - m_folderName: Materials
+    m_color: {r: 0.64705884, g: 0.7058824, b: 0.9882353, a: 1}
+  - m_folderName: Models
+    m_color: {r: 0.76862746, g: 0.70980394, b: 0.99215686, a: 1}
+  - m_folderName: Plugins
+    m_color: {r: 0.84705883, g: 0.7058824, b: 0.99607843, a: 1}
+  - m_folderName: Prefabs
+    m_color: {r: 0.93333334, g: 0.62352943, b: 0.972549, a: 1}
+  - m_folderName: Presets
+    m_color: {r: 0.9764706, g: 0.65882355, b: 0.83137256, a: 1}
+  - m_folderName: Resources
+    m_color: {r: 0.99215686, g: 0.6431373, b: 0.6862745, a: 1}
+  - m_folderName: Scenes
+    m_color: {r: 0.9882353, g: 0.64705884, b: 0.64705884, a: 1}
+  - m_folderName: Scripts
+    m_color: {r: 0.99215686, g: 0.7294118, b: 0.45490196, a: 1}
+  - m_folderName: Settings
+    m_color: {r: 0.9882353, g: 0.827451, b: 0.3019608, a: 1}
+  - m_folderName: Shaders
+    m_color: {r: 0.99215686, g: 0.8784314, b: 0.2784314, a: 1}
+  - m_folderName: Sprites
+    m_color: {r: 0.74509805, g: 0.9490196, b: 0.39215687, a: 1}
+  - m_folderName: Textures
+    m_color: {r: 0.5254902, g: 0.9372549, b: 0.6745098, a: 1}
+  - m_folderName: Gizmos
+    m_color: {r: 0.58431375, g: 0.75686276, b: 0.12156863, a: 1}
+  - m_folderName: Photon
+    m_color: {r: 0.6, g: 0.6, b: 0.6, a: 1}
